@@ -1,139 +1,172 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Karthik+Nayak+%F0%9F%91%8B;Engineering+Student+%7C+Tech+Enthusiast;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+  
+# 👨‍💻 Karthik Nayak
+### `Engineering Student • Tech Enthusiast • Problem Solver`
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Exploring+the+Tech+Universe+%F0%9F%8C%8C;Building+Tomorrow%2C+Today+%E2%9A%A1" alt="Typing SVG" />
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=Karthiknayak26&style=flat-square&color=00d9ff)](https://github.com/Karthiknayak26)
 
-```typescript
-const karthik = {
-    pronouns: "He" | "Him",
-    role: "Engineering Student & Tech Explorer",
-    location: "India 🇮🇳",
-    currentFocus: ["Web Development", "Problem Solving", "System Design"],
-    learningGoal: "Exploring diverse fields in Computer Science",
-    askMeAbout: ["C", "Python", "Java", "Web Dev", "College Life"],
-    funFact: "I turn coffee into code and love experimenting with new tech! ☕→💻",
-    hobbies: ["Coding", "Photo Editing", "Tech Blogging"],
-    currentStatus: "Open to collaborations and new opportunities"
-};
-```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> Tech Arsenal
-
-<div align="center">
-
-### 🚀 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,apache,figma" />
-</p>
-
-### 📚 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,docker" />
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"> Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/karthik490__20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/karthik-nayak-b90105306)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/karthiknayak26)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@gmail.com)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="400">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="200" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiknayak26&theme=tokyo-night&hide_border=true&area=true" width="900" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644505-bd9b3ad1-6826-4e54-8b9e-0a1b54f84615.gif" width="50"> Current Projects & Goals
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 2024 Goals] --> B[Master Web Dev]
-    A --> C[Build Portfolio]
-    A --> D[Open Source]
-    A --> E[Competitive Programming]
-    
-    B --> F[React & Node.js]
-    C --> G[Full Stack Projects]
-    D --> H[Community Contributions]
-    E --> I[Problem Solving Skills]
-```
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644499-28f4e5ad-a4cc-4bc1-8c5b-0fd2d208c81c.gif" width="50"> Profile Insights
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Karthiknayak26&style=for-the-badge&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/Karthiknayak26?style=for-the-badge&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Karthiknayak26?style=for-the-badge&color=yellow)
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644494-2ba0043c-94f5-4bc8-89b8-f95d92ad6411.gif" width="50"> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthiknayak26&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+## 🛸 About Me
+
+</div>
+
+```javascript
+const karthik = {
+    location: "India 🇮🇳",
+    currentFocus: ["Web Development", "Data Structures & Algorithms"],
+    learning: ["React.js", "Node.js", "System Design"],
+    hobbies: ["Tech Innovation", "Photo Editing", "Problem Solving"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄",
+    lifePhilosophy: "Code. Learn. Repeat. 🔄"
+};
+```
+
+<div align="center">
+
+## 🔗 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Follow)](https://instagram.com/karthik490__20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://www.linkedin.com/in/karthik-nayak-b90105306)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow)](https://x.com/karthiknayak26)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
 </div>
 
 <div align="center">
-  
-### 💭 Random Dev Quote
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Mission
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Karthik Nayak"
+        self.role = "Engineering Student"
+        self.skills = ["Problem Solving", "Web Dev", "Learning"]
+        
+    def current_goals(self):
+        return [
+            "Master Full-Stack Development",
+            "Contribute to Open Source",
+            "Build Innovative Projects",
+            "Share Knowledge with Community"
+        ]
+    
+    def get_daily_routine(self):
+        return "Code → Learn → Build → Repeat 🚀"
+
+me = Developer()
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karthiknayak26&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Activity Graph
+
+[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthiknayak26&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Closing" />
-</div>
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🎵 Currently Coding To
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ "The best time to plant a tree was 20 years ago. The second best time is now." ✨**
+
+*Building the future, one line of code at a time* 🚀
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Karthiknayak26&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/Karthiknayak26/Karthiknayak26/blob/output/github-contribution-grid-snake.svg)
+
 </div>
