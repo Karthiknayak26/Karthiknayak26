@@ -2,7 +2,7 @@
   
 # 👋 Hello, World! I'm Karthik Nayak
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Engineering+Student+%7C+Tech+Enthusiast;Full+Stack+Developer+in+Making;Problem+Solver+%7C+Code+Craftsman" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Engineering+Student+%7C+Tech+Enthusiast;Full+Stack+Developer+in+Making;Problem+Solver+%7C+Code+Craftsman" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Karthiknayak26&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/Karthiknayak26)
 
@@ -67,13 +67,13 @@ hobbies: ["Coding", "Photo Editing", "Tech Blogging"]
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=58A6FF" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiknayak26&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiknayak26&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&theme=tokyonight&hide_border=true&layout=compact" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthiknayak26&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&theme=react&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthiknayak26&theme=github_dark" />
 
 </div>
 
@@ -83,7 +83,7 @@ hobbies: ["Coding", "Photo Editing", "Tech Blogging"]
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Karthiknayak26&theme=tokyonight&no-frame=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Karthiknayak26&theme=discord&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -116,7 +116,7 @@ hobbies: ["Coding", "Photo Editing", "Tech Blogging"]
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
