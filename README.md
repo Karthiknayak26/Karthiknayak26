@@ -1,56 +1,141 @@
-<h1 align="center">Hi 👋, I'm Karthik Nayak</h1>
-<h3 align="center">An engineering student exploring the world of tech 🌍</h3>
+<div align="center">
+  
+# 👋 Hello, World! I'm Karthik Nayak
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Engineering+Student+%7C+Tech+Enthusiast;Full+Stack+Developer+in+Making;Problem+Solver+%7C+Code+Craftsman" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Karthiknayak26&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/Karthiknayak26)
+
+</div>
 
 ---
 
-### 💫 About Me
-- 🔭 I’m currently working on improving my skills in **Web Development** & **Problem Solving**
-- 🌱 I’m currently learning how to explore different fields in the computer science branch
-- 💬 Ask me about anything related to **C, Python, Java, Web Dev, or college life**
-- ⚡ Fun fact: I love experimenting with different technologies and editing photos as a hobby
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🚀 About Me
+
+```yaml
+name: Karthik Nayak
+role: Engineering Student & Tech Explorer
+location: India
+education: Computer Science Engineering
+focus: ["Web Development", "Problem Solving", "System Design"]
+learning: ["React.js", "Node.js", "Data Structures", "Cloud Computing"]
+hobbies: ["Coding", "Photo Editing", "Tech Blogging"]
+```
+
+- 🔥 **Currently Building:** Modern web applications with cutting-edge technologies
+- 🎯 **Focus Areas:** Full-stack development, competitive programming, and system design
+- 💡 **Always Learning:** Exploring new frameworks, tools, and best practices
+- 🤝 **Open to:** Collaborations, mentorship, and exciting project opportunities
+- ⚡ **Fun Fact:** I debug with console.log and I'm proud of it! 😄
 
 ---
 
-### 🌐 Connect with me:
+### 🛠️ Tech Arsenal
 
-<p align="left">
-<a href="https://instagram.com/karthik490__20" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://www.linkedin.com/in/karthik-nayak-b90105306" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://x.com/karthiknayak26" target="blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="twitter/x" /></a>
-</p>
+<div align="center">
 
----
+#### Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 💻 Tech Stack
+#### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-</p>
+#### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+#### Design & Creative
+![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-</p>
+</div>
 
 ---
 
-### 🧭 Visitor Count
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Karthiknayak26&icon=0&color=0" alt="visitor count"/>
-</p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=tokyonight&hide_border=true" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiknayak26&theme=tokyo-night&hide_border=true&area=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&theme=tokyonight&hide_border=true&layout=compact" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthiknayak26&theme=tokyonight" />
+
+</div>
 
 ---
 
-> *Thank you for visiting my profile! I'm always learning and growing 🚀.*
+### 🏆 GitHub Trophies
 
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Karthiknayak26&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-nayak-b90105306)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthik490__20)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/karthiknayak26)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiknayak26)
+
+</div>
+
+---
+
+### 🎯 Current Goals
+
+- [ ] Master React.js and Node.js ecosystem
+- [ ] Contribute to 5+ open source projects
+- [ ] Build a full-stack portfolio project
+- [ ] Learn cloud computing (AWS/GCP)
+- [ ] Participate in hackathons and coding competitions
+
+---
+
+### 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 When I'm not coding...
+
+```ascii
+    🎧 Music        📸 Photography      🎮 Gaming        📚 Learning
+      ||              ||                ||              ||
+   Lofi Hip-Hop    Street & Tech      Indie Games    New Tech Stacks
+```
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+
+</div>
