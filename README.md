@@ -149,6 +149,6 @@ me = Developer()
 
 *Building the future, one line of code at a time* 🚀
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Karthiknayak26&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Karthiknayak26&label=Profile%20Views&color=6&icon=5&pretty=true)]()
 
 </div>
