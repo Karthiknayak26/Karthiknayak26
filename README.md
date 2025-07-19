@@ -1,197 +1,139 @@
 <div align="center">
-  
-  # 👋 Hello, World! I'm Karthik Nayak
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Engineering+Student+%7C+Tech+Enthusiast;Full+Stack+Developer+in+Making;Problem+Solver+%7C+Code+Craftsman" alt="Typing SVG" />
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=Karthiknayak26&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/Karthiknayak26)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Karthik+Nayak+%F0%9F%91%8B;Engineering+Student+%7C+Tech+Enthusiast;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> About Me
 
-<br>
-
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## 🚀 About Me
-
-```yaml
-name: Karthik Nayak
-role: Engineering Student & Tech Explorer
-location: India
-education: Computer Science Engineering
-focus: 
-  - "Web Development"
-  - "Problem Solving" 
-  - "System Design"
-learning: 
-  - "React.js"
-  - "Node.js"
-  - "Data Structures"
-  - "Cloud Computing"
-hobbies: 
-  - "Coding"
-  - "Photo Editing"
-  - "Tech Blogging"
+```typescript
+const karthik = {
+    pronouns: "He" | "Him",
+    role: "Engineering Student & Tech Explorer",
+    location: "India 🇮🇳",
+    currentFocus: ["Web Development", "Problem Solving", "System Design"],
+    learningGoal: "Exploring diverse fields in Computer Science",
+    askMeAbout: ["C", "Python", "Java", "Web Dev", "College Life"],
+    funFact: "I turn coffee into code and love experimenting with new tech! ☕→💻",
+    hobbies: ["Coding", "Photo Editing", "Tech Blogging"],
+    currentStatus: "Open to collaborations and new opportunities"
+};
 ```
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-- 🔥 **Currently Building:** Modern web applications with cutting-edge technologies
-- 🎯 **Focus Areas:** Full-stack development, competitive programming, and system design  
-- 💡 **Always Learning:** Exploring new frameworks, tools, and best practices
-- 🤝 **Open to:** Collaborations, mentorship, and exciting project opportunities
-- ⚡ **Fun Fact:** I debug with console.log and I'm proud of it! 😄
-
-<br>
-
----
-
-<br>
-
-## 🛠️ Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> Tech Arsenal
 
 <div align="center">
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🚀 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+</p>
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,apache,figma" />
+</p>
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Design & Creative
-![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 📚 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,docker" />
+</p>
 
 </div>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"> Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/karthik490__20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/karthik-nayak-b90105306)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/karthiknayak26)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="400">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="200" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiknayak26&theme=tokyo-night&hide_border=true&area=true" width="900" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644505-bd9b3ad1-6826-4e54-8b9e-0a1b54f84615.gif" width="50"> Current Projects & Goals
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 2024 Goals] --> B[Master Web Dev]
+    A --> C[Build Portfolio]
+    A --> D[Open Source]
+    A --> E[Competitive Programming]
+    
+    B --> F[React & Node.js]
+    C --> G[Full Stack Projects]
+    D --> H[Community Contributions]
+    E --> I[Problem Solving Skills]
+```
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644499-28f4e5ad-a4cc-4bc1-8c5b-0fd2d208c81c.gif" width="50"> Profile Insights
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Karthiknayak26&style=for-the-badge&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Karthiknayak26?style=for-the-badge&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Karthiknayak26?style=for-the-badge&color=yellow)
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644494-2ba0043c-94f5-4bc8-89b8-f95d92ad6411.gif" width="50"> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthiknayak26&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
 ---
 
-<br>
-
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthiknayak26&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiknayak26&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=58A6FF" />
-
-  <br><br>
-
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiknayak26&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35" />
-
-  <br><br>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiknayak26&theme=react&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthiknayak26&theme=github_dark" />
+### 💭 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-<br>
-
----
-
-<br>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Karthiknayak26&theme=discord&no-frame=true&row=1&column=7)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Closing" />
 </div>
-
-<br>
-
----
-
-<br>
-
-## 🤝 Let's Connect
 
 <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-nayak-b90105306)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthik490__20)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/karthiknayak26)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiknayak26)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🎯 Current Goals
-
-<div align="left">
-
-- [ ] Master React.js and Node.js ecosystem
-- [ ] Contribute to 5+ open source projects  
-- [ ] Build a full-stack portfolio project
-- [ ] Learn cloud computing (AWS/GCP)
-- [ ] Participate in hackathons and coding competitions
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-  ## 🎮 When I'm not coding...
-
-  ```ascii
-      🎧 Music        📸 Photography      🎮 Gaming        📚 Learning
-        ||              ||                ||              ||
-     Lofi Hip-Hop    Street & Tech      Indie Games    New Tech Stacks
-  ```
-
-  <br>
-
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
