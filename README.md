@@ -145,28 +145,10 @@ me = Developer()
 
 <div align="center">
 
-### 🎵 Currently Coding To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com)
-
-</div>
-
----
-
-<div align="center">
-
 **✨ "The best time to plant a tree was 20 years ago. The second best time is now." ✨**
 
 *Building the future, one line of code at a time* 🚀
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=Karthiknayak26&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/Karthiknayak26/Karthiknayak26/blob/output/github-contribution-grid-snake.svg)
 
 </div>
